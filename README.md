@@ -1,2 +1,2 @@
-# CS-230
-CS 230 homework stuff
+# CS 230
+CS 230 homework and labs
